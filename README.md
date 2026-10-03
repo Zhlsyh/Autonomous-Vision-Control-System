@@ -67,9 +67,15 @@ karena itu aplikasi visi dan firmware belum saling mengendalikan.
 │   └── sdkconfig.defaults
 ├── src/
 │   └── gesture_control.py
+├── LICENSE
 ├── requirements.txt
 ├── README.md
 ```
 
 Python dan ESP-IDF disiapkan secara terpisah. `requirements.txt` hanya berisi
 dependensi aplikasi Python.
+
+## Lisensi
+
+Proyek ini menggunakan lisensi MIT. Lihat [LICENSE](LICENSE) untuk teks
+lisensinya.
